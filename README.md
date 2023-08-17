@@ -1,6 +1,6 @@
 # RootFindingMathMethods C++ Toolkit
 
-![bisection]([URL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBisection_method&psig=AOvVaw358biTUeBwZUhoxaukVJjN&ust=1692381808121000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDJ8NWj5IADFQAAAAAdAAAAABAI))
+![bisection](500px-Bisection_method.svg.png)
 
 Welcome to the RootFindingMathMethods repository! This C++ toolkit provides an in-depth exploration of the Bisection Method, a powerful numerical technique designed to efficiently and accurately locate roots of transcendental equations. Root finding is a fundamental problem in mathematics and engineering, with applications spanning various fields.
 
